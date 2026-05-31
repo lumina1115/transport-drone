@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / temp
+*.tmp
+*.log
+__pycache__/
+*.pyc
+
+# Large media (host videos externally, link in README)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# CAD backups
+*.bak
+*~
