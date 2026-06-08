@@ -35,7 +35,7 @@
 
 - [x] 初始化 GitHub 仓库与项目结构
 - [x] AI 协作 8 次，完成技术路线与 BOM 定稿
-- [x] 确定平台：F450 + F405(INAV) + 2212-980KV + 21700-LA 3S（无 GPS，视距内飞行）
+- [x] 确定平台：F450 + F405(INAV) + 2212-980KV + 分体电调 ×4 + PDB + 21700-LA 3S + FlySky 遥控（无 GPS，视距内飞行）
 - [x] 收放方案初筛：舵机拉锁式 + Arduino CH6
 - [x] 硬件全部到货（电调因发错已换新）
 - [x] Week 2 机架组装与焊接（完成，详见 [Week 2 周报](docs/weekly-reports/week-02.md)）
